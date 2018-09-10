@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1729.1 765.4" style="enable-background:new 0 0 1729.1 765.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<g id="acrylic_bottles" class="st0">
+</g>
+<g id="guides" class="st0">
+</g>
+<g id="acrylic_frame" class="st0">
+</g>
+<g id="glue_frame">
+	<path id="bottom_piece" class="st2" d="M1143.1,41.1H1084c0.1-0.6,0.2-1.2,0.2-1.8V19.5c0-3.9-3.2-7.1-7.1-7.1h-411
+		c-3.9,0-7.1,3.2-7.1,7.1v19.8c0,0.6,0.1,1.2,0.2,1.8h-59.1c-6.6,0-12,5.4-12,12v656.3c0,6.6,5.4,12,12,12h59.1
+		c-0.1,0.6-0.2,1.2-0.2,1.8V743c0,3.9,3.2,7.1,7.1,7.1h411c3.9,0,7.1-3.2,7.1-7.1v-19.8c0-0.6-0.1-1.2-0.2-1.8h59.1
+		c6.6,0,12-5.4,12-12V53.1C1155.1,46.5,1149.7,41.1,1143.1,41.1z"/>
+	<path id="top_piece" class="st2" d="M572.6,39.2h-59.1c0.1-0.6,0.2-1.2,0.2-1.8V17.6c0-3.9-3.2-7.1-7.1-7.1h-411
+		c-3.9,0-7.1,3.2-7.1,7.1v19.8c0,0.6,0.1,1.2,0.2,1.8H29.7c-6.6,0-12,5.4-12,12v656.3c0,6.6,5.4,12,12,12h59.1
+		c-0.1,0.6-0.2,1.2-0.2,1.8v19.8c0,3.9,3.2,7.1,7.1,7.1h411c3.9,0,7.1-3.2,7.1-7.1v-19.8c0-0.6-0.1-1.2-0.2-1.8h59.1
+		c6.6,0,12-5.4,12-12V51.2C584.6,44.6,579.2,39.2,572.6,39.2z"/>
+</g>
+<g id="glue_bottles">
+	<path id="_x33__in_1" class="st2" d="M217.3,174.5H82.6c-6.6,0-12-5.4-12-12v-44c0-6.6,5.4-12,12-12h134.7c6.6,0,12,5.4,12,12v44
+		C229.3,169.1,223.9,174.5,217.3,174.5z"/>
+	<circle id="_x32_243" class="st2" cx="304.4" cy="87.2" r="41.1"/>
+	<circle id="liquid_tape" class="st2" cx="444.3" cy="191" r="73"/>
+	<circle id="styroglue" class="st2" cx="150" cy="421.3" r="63.8"/>
+	<circle id="wd40" class="st2" cx="444.3" cy="564.1" r="68"/>
+	<ellipse id="elmer_white" class="st2" cx="444.3" cy="365.3" rx="89.3" ry="43.9"/>
+	<ellipse id="elmers_clear" class="st2" cx="150" cy="260.1" rx="95" ry="49.6"/>
+	<ellipse id="adhesive_remover" class="st2" cx="150" cy="619" rx="96.4" ry="52.4"/>
+</g>
+</svg>
