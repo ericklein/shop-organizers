@@ -1,4 +1,4 @@
-# bottle holder
+# holders
 
 Description
 	- Illustrator and SVG files for use with laser cutter to create bottle organizer
@@ -39,19 +39,21 @@ Name: Glowforge
   - convert text to outlines or paths
     
   Revisions
-  	- 082718 - Initial version inspired by Tested video, supporting 34mm paint bottles
-    - 090718 - second artboard supports varied sizes of glue bottles
+  	- 082718 - Artboard 1; inspired by Tested video, 34mm paint bottles
+    - 090718 - Artboard 5,6 second artboard supports varied sizes of glue bottles
     - 100618
-      - fourth artboard supports various sizes of LiPo batteries for .50cal ammo box
+      - Artboard 2; various sizes of LiPo batteries for .50cal ammo box
       - color code cuts so inside cuts occur before outside cuts
       - engrave text into material
+    - 102819 - Artboard 3,4; AAA, AA, and C battery storage
 
   Feature Requests
   	- 082718 - [34mm bottles] higher middle for side structural ridigity
-  	- 082718 - multiple mid notches for different size containers (see Tested example)
-    - 082718 - top and bottom notch for stacking (see Tested example)
-    - 082718 - bottom floor (notch) needs to be higher to accomodate stacking notch
-    - 082718 - etch label on side so container type can be known if containers are obscured (see Tested example)
-    - 082718 - [34mm bottles] proper sized side notch holes for material being used (add annotation for users to remember to change this)
-
+  	- 082718 - ALL; multiple mid notches for different size containers (see Tested example)
+    - 082718 - ALL; top and bottom notch for stacking (see Tested example)
+    - 082718 - ALL; bottom floor (notch) needs to be higher to accomodate stacking notch
+    - 082718 - ALL; etch label on side so container type can be known if containers are obscured (see Tested example)
+    - 082718 - ALL; proper sized side notch heights for material being used (add annotation for users to remember to change this)
+    - 102819 - [AA batteries] - potential mid mid horizontal layer to stabilize batteries
+    - 102819 - [AA batteries] - feet to stabilize weight in middle of horizontal bottom piece
 
