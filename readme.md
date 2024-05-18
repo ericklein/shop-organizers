@@ -1,13 +1,27 @@
 # Laser cut holders
 
 ## Description
-This project contains a master Illustrator file and component SVG files to laser cut various container "holders" relevant for a shop.
-
-## Distribution
-These files are distributed under the terms and conditions of the Creative Commons Attribution 4.0 International [https://creativecommons.org/licenses/by/4.0/]
+This project contains a master Affinity file and component SVG files to laser cut various container "holders" relevant for a shop.
     
 ## Project verified on 
 Glowforge, should work with any laser cutter
+
+## Revisions
+- 051824
+  - Revision to master file moved from Illustrator to Affinity Designer
+  - Gave each page a unique name
+  - Revised AA/AAA/C template to C, 123A, and 14500 template with labels
+  - Revised battery sidewall to address GitHub documented bugs
+- 102819
+  - Artboard 3,4; AAA, AA, and C battery storage
+- 100618
+  - Artboard 2; various sizes of LiPo batteries for .50cal ammo box
+  - color code cuts so inside cuts occur before outside cuts
+  - engrave text into material
+- 090718
+  - Artboard 5,6 second artboard supports varied sizes of glue bottles
+- 082718
+  - Artboard 1; inspired by Tested video, 34mm paint bottles
 
 ## Information Sources
   - https://www.tested.com/art/makers/843537-custom-model-paint-racks-tested-workshop/
@@ -34,23 +48,3 @@ Name: Glowforge
 #### Notes for using GIMP palette with Glowforge
   - Lower hex # colors cut first
   - convert text to outlines or paths
-    
-## Revisions
-    - 082718 - Artboard 1; inspired by Tested video, 34mm paint bottles
-    - 090718 - Artboard 5,6 second artboard supports varied sizes of glue bottles
-    - 100618
-      - Artboard 2; various sizes of LiPo batteries for .50cal ammo box
-      - color code cuts so inside cuts occur before outside cuts
-      - engrave text into material
-    - 102819 - Artboard 3,4; AAA, AA, and C battery storage
-
-## Feature Requests
-    - 082718 - [34mm bottles] higher middle for side structural ridigity
-    - 082718 - ALL; multiple mid notches for different size containers (see Tested example)
-    - 082718 - ALL; top and bottom notch for stacking (see Tested example)
-    - 082718 - ALL; bottom floor (notch) needs to be higher to accomodate stacking notch
-    - 082718 - ALL; etch label on side so container type can be known if containers are obscured (see Tested example)
-    - 082718 - ALL; proper sized side notch heights for material being used (add annotation for users to remember to change this)
-    - 102819 - [AA batteries] - potential mid mid horizontal layer to stabilize batteries
-    - 102819 - [AA batteries] - feet to stabilize weight in middle of horizontal bottom piece
-    - 110919 - [AA batteries] - Need to add vertical height (? at least 1mm) from bottom of vertical piece to horizontal floor piece for structural integrity. Acrylic cracked in current spacing. 
